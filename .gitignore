@@ -1,0 +1,35 @@
+# Built application files
+*.apk
+*.aar
+*.aab
+*.dex
+
+# Files for the ART/Dalvik VM
+*.class
+
+# Java heap dumps
+*.hprof
+
+# Android Studio & IntelliJ IDEA files
+*.iml
+.gradle/
+.kotlin/
+.idea/
+/local.properties
+local.properties
+.DS_Store
+/build/
+app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# Environment and sensitive keys
+.env
+debug.keystore
+debug.keystore.base64
+*.jks
+*.keystore
+
+# Log files
+*.log

@@ -1,0 +1,6 @@
+{
+  "name": "我的記帳",
+  "description": "專為學生打造的全方位個人財務與智慧記帳應用",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
